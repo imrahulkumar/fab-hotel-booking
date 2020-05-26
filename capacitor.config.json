@@ -1,0 +1,6 @@
+{
+  "appId": "com.fab.hotel.booking",
+  "appName": "fab.hotel.booking",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

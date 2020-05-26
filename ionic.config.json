@@ -1,0 +1,7 @@
+{
+  "name": "fab-hotel-booking",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
